@@ -1,0 +1,27 @@
+body{
+background-color: aliceblue;
+dont-family:fantasy;
+}
+
+
+
+
+section article, section aside{
+display: inline-block;
+}
+
+section article{
+float: left;
+width:60%;
+margin:0;
+}
+
+section article img{
+
+}
+
+section aside{
+float:left;
+width:40%;
+margin:0;
+}
